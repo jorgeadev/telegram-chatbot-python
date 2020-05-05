@@ -1,0 +1,45 @@
+{'ok': True, 'result': [
+    {'update_id': 474903568, 'message':
+        {'message_id': 4, 'from':
+            {
+                'id': 959124404, 'is_bot': False, 'first_name': 'Jorge Alberto', 'last_name': 'Gomez Gomez', 'username': 'VitoFirulito', 'language_code': 'en'
+            },
+            'chat':
+            {
+                'id': 959124404, 'first_name': 'Jorge Alberto', 'last_name': 'Gomez Gomez', 'username': 'VitoFirulito', 'type': 'private'
+            },
+            'date': 1588385951, 'text': 'Proof'
+        }
+    },
+    {'update_id': 474903569, 'message':
+        {'message_id': 5, 'from':
+            {
+                'id': 959124404, 'is_bot': False, 'first_name': 'Jorge Alberto', 'last_name': 'Gomez Gomez', 'username': 'VitoFirulito', 'language_code': 'en'
+            }, 'chat':
+            {
+                'id': 959124404, 'first_name': 'Jorge Alberto', 'last_name': 'Gomez Gomez', 'username': 'VitoFirulito', 'type': 'private'
+            },
+            'date': 1588385960, 'text': 'Haciendo pruebas'
+        }
+    },
+    {'update_id': 474903570, 'message': {'message_id': 6, 'from': {'id': 959124404, 'is_bot': False, 'first_name': 'Jorge Alberto', 'last_name': 'Gomez Gomez', 'username': 'VitoFirulito', 'language_code': 'en'}, 'chat': {'id': 959124404, 'first_name': 'Jorge Alberto', 'last_name': 'Gomez Gomez', 'username': 'VitoFirulito', 'type': 'private'}, 'date': 1588386083, 'text': 'hola hola hola'}},
+    {'update_id': 474903571, 'message': {'message_id': 7, 'from': {'id': 1127828764, 'is_bot': False, 'first_name': 'Yelena', 'last_name': 'Méndez Torres'}, 'chat': {'id': 1127828764, 'first_name': 'Yelena', 'last_name': 'Méndez Torres', 'type': 'private'}, 'date': 1588386354, 'text': '/start', 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}]}},
+    {'update_id': 474903572, 'message': {'message_id': 8, 'from': {'id': 1127828764, 'is_bot': False, 'first_name': 'Yelena', 'last_name': 'Méndez Torres', 'language_code': 'es'}, 'chat': {'id': 1127828764, 'first_name': 'Yelena', 'last_name': 'Méndez Torres', 'type': 'private'}, 'date': 1588386372, 'text': 'Hola soy yeli'}},
+    {'update_id': 474903573, 'message': {'message_id': 9, 'from': {'id': 1127828764, 'is_bot': False, 'first_name': 'Yelena', 'last_name': 'Méndez Torres', 'language_code': 'es'}, 'chat': {'id': 1127828764, 'first_name': 'Yelena', 'last_name': 'Méndez Torres', 'type': 'private'}, 'date': 1588386384, 'text': 'Hola'}},
+    {'update_id': 474903574, 'message': {'message_id': 10, 'from': {'id': 1127828764, 'is_bot': False, 'first_name': 'Yelena', 'last_name': 'Méndez Torres', 'language_code': 'es'}, 'chat': {'id': 1127828764, 'first_name': 'Yelena', 'last_name': 'Méndez Torres', 'type': 'private'}, 'date': 1588386386, 'text': 'Heeee'}},
+    {'update_id': 474903575, 'message': {'message_id': 11, 'from': {'id': 1175072421, 'is_bot': False, 'first_name': 'Trabajo', 'last_name': 'Appointment', 'language_code': 'en'}, 'chat': {'id': 1175072421, 'first_name': 'Trabajo', 'last_name': 'Appointment', 'type': 'private'}, 'date': 1588386798, 'text': '/start', 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}]}},
+    {'update_id': 474903576, 'message': {'message_id': 12, 'from': {'id': 1175072421, 'is_bot': False, 'first_name': 'Trabajo', 'last_name': 'Appointment', 'language_code': 'en'}, 'chat': {'id': 1175072421, 'first_name': 'Trabajo', 'last_name': 'Appointment', 'type': 'private'}, 'date': 1588386799, 'text': '/start', 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}]}},
+    {'update_id': 474903577, 'message': {'message_id': 13, 'from': {'id': 1175072421, 'is_bot': False, 'first_name': 'Trabajo', 'last_name': 'Appointment', 'language_code': 'en'}, 'chat': {'id': 1175072421, 'first_name': 'Trabajo', 'last_name': 'Appointment', 'type': 'private'}, 'date': 1588386805, 'text': 'Hello'}},
+
+    {'update_id': 474903578, 'message':
+        {'message_id': 14, 'from':
+            {
+                'id': 1175072421, 'is_bot': False, 'first_name': 'Trabajo', 'last_name': 'Appointment', 'language_code': 'en'
+            }, 'chat':
+            {
+                'id': 1175072421, 'first_name': 'Trabajo', 'last_name': 'Appointment', 'type': 'private'
+            },
+            'date': 1588386813, 'text': 'Hola'
+        }
+    }
+]}
